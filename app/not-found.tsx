@@ -29,7 +29,8 @@ export default function NotFound() {
         <h1 className="not-found-title">File not found (404 error)</h1>
 
         <p className="not-found-lead">
-          If you think what you&apos;re looking for should be here, please contact the site owner.
+          If you think what you&apos;re looking for should be here, please
+          contact the site owner.
         </p>
 
         <Link href="/" className="not-found-link">
